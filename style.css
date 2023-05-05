@@ -26,18 +26,18 @@ body {
 header {
   background: #445942;
   color: #dad2ba;
-  font-size: 2em;  
+  font-size: 3em;  
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0px;  
+  padding: 1emv ;  
 }
 
 main {
   background: #dad2ba;
   color: #445942;
-  font-size: 1.5em;
+  font-size: 2em;
   width: 100%;
   display: flex;
   flex-direction: column;
